@@ -3,4 +3,4 @@ server:
 ### 开发时候使用的配置文件是application-dev.yml
 spring:
   profiles:
-    active: dev
+    active: prod
